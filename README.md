@@ -1,5 +1,5 @@
 # MyLoveButikApp
- Giyim Uygulaması
+
 <img width="443" alt="Ekran Resmi 2024-07-18 14 56 33" src="https://github.com/user-attachments/assets/4b70802d-4a15-4371-b9b6-c90ff334c5a9">
 <img width="443" alt="Ekran Resmi 2024-07-18 14 56 45" src="https://github.com/user-attachments/assets/d9415009-8f51-4047-b2e6-eb32f83cf479">
 <img width="443" alt="Ekran Resmi 2024-07-18 14 56 52" src="https://github.com/user-attachments/assets/d583f2f0-938e-44ef-a3cf-5743a6d14558">
